@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Kotlin's collection processing, specifically when using the `filter` function. The example code attempts to filter a list of integers to retain only even numbers, but due to an oversight in result handling, it might produce an unexpected empty result. The solution illustrates the correct approach.
